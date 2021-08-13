@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 ### These are my Github Stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wamikamalik&show_icons=true&include_all_commits=true&count_private=true&theme=bear" alt="Wamika's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wamikamalik-coke&show_icons=true&include_all_commits=true&count_private=true&theme=bear" alt="Wamika's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wamikamalik&theme=bear" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wamikamalik-coke&theme=bear" />
 </a>
